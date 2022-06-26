@@ -1,4 +1,5 @@
-Welcome to Lumache's documentation!
+Welcome to STOC's documentation!
+欢迎来到STOC时空组学联盟数据标准文档
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
