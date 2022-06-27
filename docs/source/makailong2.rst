@@ -1,4 +1,4 @@
-Makailong-API
+Makailong2-API
 ===
 
 .. autosummary::
