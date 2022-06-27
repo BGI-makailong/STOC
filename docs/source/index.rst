@@ -20,6 +20,14 @@ Contents
 
 .. toctree::
 
+   时空联盟STOC数据标准概述
+   访问和共享策略
+   约定的术语和定义
+   数据及元数据标准
+   时空联盟STOC门户服务
+   案例及最佳实践
+   时空联盟STOC在线分析平台CODEPLOT
    usage
    api
    makailong
+   
